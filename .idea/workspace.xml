@@ -36,7 +36,7 @@
       <file leaf-file-name="COMMIT_EDITMSG" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.git/COMMIT_EDITMSG">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="11" selection-start="278" selection-end="278" vertical-scroll-proportion="0.33546326">
+            <state line="1" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.033546325">
               <folding />
             </state>
           </provider>
@@ -311,9 +311,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.git/FETCH_HEAD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.033546325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.git/COMMIT_EDITMSG">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="11" selection-start="278" selection-end="278" vertical-scroll-proportion="0.33546326">
+        <state line="1" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.033546325">
           <folding />
         </state>
       </provider>

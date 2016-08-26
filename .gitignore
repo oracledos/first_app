@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .bundle
 db/*.sqlite3
 log/*.log
@@ -8,6 +9,10 @@ tmp/
 *.rbc
 # Rubymine folder
 /.idea
+=======
+*.gem
+*.rbc
+>>>>>>> cafe28a7310003d28c2c48173e0cab494cb8f8fd
 /.config
 /coverage/
 /InstalledFiles
@@ -56,4 +61,7 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+<<<<<<< HEAD
+>>>>>>> cafe28a7310003d28c2c48173e0cab494cb8f8fd
+=======
 >>>>>>> cafe28a7310003d28c2c48173e0cab494cb8f8fd
