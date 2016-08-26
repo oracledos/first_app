@@ -27,7 +27,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="-10.6">
+            <state line="21" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -36,7 +36,7 @@
       <file leaf-file-name="README.markdown" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="9" selection-start="229" selection-end="229" vertical-scroll-proportion="0.17470881">
+            <state line="5" column="2" selection-start="221" selection-end="221" vertical-scroll-proportion="0.17470881">
               <folding />
             </state>
           </provider>
@@ -80,6 +80,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -88,11 +91,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Favorites" />
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,9 +317,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.git/FETCH_HEAD">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.033546325">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.033546325" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.git/COMMIT_EDITMSG">
@@ -321,14 +329,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="-10.6">
+        <state line="21" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="229" selection-end="229" vertical-scroll-proportion="0.17470881">
+        <state line="5" column="2" selection-start="221" selection-end="221" vertical-scroll-proportion="0.17470881">
           <folding />
         </state>
       </provider>
