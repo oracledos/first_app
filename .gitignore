@@ -6,6 +6,8 @@ tmp/
 =======
 *.gem
 *.rbc
+# Rubymine folder
+/.idea
 /.config
 /coverage/
 /InstalledFiles
