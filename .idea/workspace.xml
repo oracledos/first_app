@@ -33,10 +33,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="42" selection-start="260" selection-end="260" vertical-scroll-proportion="0.1341853">
+            <state line="4" column="42" selection-start="260" selection-end="260" vertical-scroll-proportion="-3.36">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="COMMIT_EDITMSG" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.git/COMMIT_EDITMSG">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.033546325">
               <folding />
             </state>
           </provider>
@@ -80,9 +89,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="RailsProjectView" />
-      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -103,6 +110,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Favorites" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,9 +319,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="86" selection-end="86" vertical-scroll-proportion="0.2795341">
-          <folding />
-        </state>
+        <state line="8" column="17" selection-start="86" selection-end="86" vertical-scroll-proportion="0.2795341" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.git/FETCH_HEAD">
@@ -320,23 +327,21 @@
         <state line="1" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.033546325" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.git/COMMIT_EDITMSG">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="17" selection-end="17" vertical-scroll-proportion="0.033546325">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="21" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="42" selection-start="260" selection-end="260" vertical-scroll-proportion="0.1341853">
+        <state line="4" column="42" selection-start="260" selection-end="260" vertical-scroll-proportion="-3.36">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.git/COMMIT_EDITMSG">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.033546325">
           <folding />
         </state>
       </provider>
